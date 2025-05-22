@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "cupcake",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>cupcake</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/117581994141828913443",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T13:50:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747921843624",
+    "dcterms:modified" : "2025-05-22T13:50:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://padmaya.github.io/iiif-workshop-test/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=318,1101,587,458"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M318.17808,1100.93151h293.56164v0h293.56164v228.83562v228.83562h-293.56164h-293.56164v-228.83562z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_83fdad78-61cb-4b7b-b2f3-5cba02d90776\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af32f801-8b4c-4183-92f8-d9921b16dba0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "caramel",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>caramel</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/117581994141828913443",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T13:37:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747921046511",
+    "dcterms:modified" : "2025-05-22T13:50:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://padmaya.github.io/iiif-workshop-test/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2876,124,676,568"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2974.9883,608.57484c62.42287,47.68005 150.48046,83.18576 238.96476,83.14334v0v0c88.4843,-0.04242 165.56898,-33.25744 238.96476,-83.14334c73.39578,-49.8859 101.92379,-125.90237 98.98244,-200.72578c-2.94135,-74.82341 -37.35205,-148.45375 -98.98244,-200.72578c-61.63039,-52.27203 -150.48046,-83.18576 -238.96476,-83.14334c-88.4843,0.04242 -176.60285,31.04099 -238.96476,83.14334c-62.36191,52.10235 -98.9672,125.30849 -98.98244,200.72578c-0.01524,75.41729 36.55957,153.04573 98.98244,200.72578z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_66afcfa0-c44e-407e-b403-63bb1da5ae21\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.05295\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af32f801-8b4c-4183-92f8-d9921b16dba0"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "whipped cream<a title=\"heavy cream to whipped cream\" href=\"https://www.giallozafferano.com/recipes/How-to-Whip-Cream.html\" target=\"_blank\" rel=\"noopener\">how to whip cream",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>whipped cream<a title=\"heavy cream to whipped cream\" href=\"https://www.giallozafferano.com/recipes/How-to-Whip-Cream.html\" target=\"_blank\" rel=\"noopener\">how to whip cream</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/117581994141828913443",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T13:36:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747921009325",
+    "dcterms:modified" : "2025-05-22T13:50:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://padmaya.github.io/iiif-workshop-test/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1830,24,903,639"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1830.17808,23.89041h451.49315v0h451.49315v319.45205v319.45205h-451.49315h-451.49315v-319.45205z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_97dc9e2a-51dd-4d31-8995-b478380612e3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.05295\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://af32f801-8b4c-4183-92f8-d9921b16dba0"
+    } ]
+  } ],
+  "@id" : "https://padmaya.github.io/iiif-workshop-test/annotations/d564d5ea60e11195cc0e0583e36fd366.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
