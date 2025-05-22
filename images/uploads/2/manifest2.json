@@ -1,0 +1,363 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "http://4f06ba06-d462-47ed-ba9d-f6b2643285b2",
+    "@type": "sc:Manifest",
+    "label": "more about chai",
+    "metadata": [],
+    "description": [
+        {
+            "@value": "This is a test picture for chai. This is created by the IIIF Manifest Generator. The image is a test image.Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator in Universal viewer. This is a test image.",
+            "@language": "en"
+        }
+    ],
+    "license": "https://creativecommons.org/licenses/by/3.0/",
+    "attribution": "Copyright Padma C but released as creativecommons",
+    "sequences": [
+        {
+            "@id": "http://e93a24f0-7f79-41b7-b70a-1bd134031bb2",
+            "@type": "sc:Sequence",
+            "label": [
+                {
+                    "@value": "Normal Sequence",
+                    "@language": "en"
+                }
+            ],
+            "viewingHint": "individuals",
+            "canvases": [
+                {
+                    "@id": "http://0dfd06af-d048-4567-ad88-40190362e941",
+                    "@type": "sc:Canvas",
+                    "label": "tea",
+                    "height": 1080,
+                    "width": 1920,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://d00cd53c-bfaa-45c1-8cbe-a4bc8129e24c",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.archive.org/image/iiif/2/20231220-115048%2fWIN_20250521_07_26_25_Pro.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.archive.org/image/iiif/2/20231220-115048%2fWIN_20250521_07_26_25_Pro.jpg",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "formats": [
+                                                "jpg",
+                                                "tif",
+                                                "gif",
+                                                "png"
+                                            ],
+                                            "maxArea": 2073600,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 1080,
+                                "width": 1920
+                            },
+                            "on": "http://0dfd06af-d048-4567-ad88-40190362e941"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://80e1be61-5eea-4bdc-a5d1-a816aa97135b",
+                    "@type": "sc:Canvas",
+                    "label": "pink",
+                    "height": 1080,
+                    "width": 1920,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://bc1b5fdc-f498-43df-9f76-9867f363043e",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.archive.org/image/iiif/2/win-20250521-07-25-07-pro%2fWIN_20250521_07_25_07_Pro.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.archive.org/image/iiif/2/win-20250521-07-25-07-pro%2fWIN_20250521_07_25_07_Pro.jpg",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "formats": [
+                                                "jpg",
+                                                "tif",
+                                                "gif",
+                                                "png"
+                                            ],
+                                            "maxArea": 2073600,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 1080,
+                                "width": 1920
+                            },
+                            "on": "http://80e1be61-5eea-4bdc-a5d1-a816aa97135b"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://af32f801-8b4c-4183-92f8-d9921b16dba0",
+                    "@type": "sc:Canvas",
+                    "label": "pie",
+                    "height": 3024,
+                    "width": 4032,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://95f59f6e-407e-4ca5-a4f9-73a88c1a9771",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.archive.org/image/iiif/2/20231220-113109%2f20231220_113109.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.archive.org/image/iiif/2/20231220-113109%2f20231220_113109.jpg",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "formats": [
+                                                "jpg",
+                                                "tif",
+                                                "gif",
+                                                "png"
+                                            ],
+                                            "maxArea": 12192768,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 3024,
+                                "width": 4032
+                            },
+                            "on": "http://af32f801-8b4c-4183-92f8-d9921b16dba0"
+                        }
+                    ],
+                    "related": ""
+                },
+                {
+                    "@id": "http://6dd34afd-c0a7-4180-8c28-be0d01a5e376",
+                    "@type": "sc:Canvas",
+                    "label": "chai",
+                    "height": 1080,
+                    "width": 1920,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://667cba33-7811-45ee-a04e-a7cc6bc900f5",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.archive.org/image/iiif/2/win-20250521-07-25-38-pro%2fWIN_20250521_07_25_38_Pro.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.archive.org/image/iiif/2/win-20250521-07-25-38-pro%2fWIN_20250521_07_25_38_Pro.jpg",
+                                    "profile": [
+                                        "http://iiif.io/api/image/2/level2.json",
+                                        {
+                                            "formats": [
+                                                "jpg",
+                                                "tif",
+                                                "gif",
+                                                "png"
+                                            ],
+                                            "maxArea": 2073600,
+                                            "qualities": [
+                                                "bitonal",
+                                                "default",
+                                                "gray",
+                                                "color"
+                                            ],
+                                            "supports": [
+                                                "regionByPx",
+                                                "sizeByW",
+                                                "sizeByWhListed",
+                                                "cors",
+                                                "regionSquare",
+                                                "sizeByDistortedWh",
+                                                "canonicalLinkHeader",
+                                                "sizeByConfinedWh",
+                                                "sizeByPct",
+                                                "jsonldMediaType",
+                                                "regionByPct",
+                                                "rotationArbitrary",
+                                                "sizeByH",
+                                                "baseUriRedirect",
+                                                "rotationBy90s",
+                                                "profileLinkHeader",
+                                                "sizeByForcedWh",
+                                                "sizeByWh",
+                                                "mirroring"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 1080,
+                                "width": 1920
+                            },
+                            "on": "http://6dd34afd-c0a7-4180-8c28-be0d01a5e376"
+                        }
+                    ],
+                    "related": ""
+                }
+            ]
+        }
+    ],
+    "structures": [
+        {
+            "@id": "http://e93a24f0-7f79-41b7-b70a-1bd134031bb2",
+            "@type": "sc:Range",
+            "label": "Table of Content",
+            "viewingHint": "top",
+            "ranges": [
+                "http://4f06ba06-d462-47ed-ba9d-f6b2643285b2"
+            ]
+        },
+        {
+            "@id": "http://4f06ba06-d462-47ed-ba9d-f6b2643285b2",
+            "@type": "sc:Range",
+            "label": "Introduction",
+            "ranges": [
+                "http://Page1",
+                "http://Page2",
+                "http://Page3",
+                "http://Page4"
+            ],
+            "canvases": [
+                "http://0dfd06af-d048-4567-ad88-40190362e941",
+                "http://80e1be61-5eea-4bdc-a5d1-a816aa97135b",
+                "http://af32f801-8b4c-4183-92f8-d9921b16dba0",
+                "http://6dd34afd-c0a7-4180-8c28-be0d01a5e376"
+            ]
+        
+        },
+        {
+            "@id": "http://Page1",
+            "@type": "sc:Range",
+            "label": "Page 1",
+            "canvases": [
+                "http://0dfd06af-d048-4567-ad88-40190362e941"
+            ]
+        
+        },
+                {
+            "@id": "http://Page2",
+            "@type": "sc:Range",
+            "label": "Page 2",
+            "canvases": [
+                "http://80e1be61-5eea-4bdc-a5d1-a816aa97135b"
+            ]
+        
+        },
+        {
+            "@id": "http://Page3",
+            "@type": "sc:Range",
+            "label": "Page 3",
+            "canvases": [
+                "http://af32f801-8b4c-4183-92f8-d9921b16dba0"
+            ]
+        
+        },
+                {
+            "@id": "http://Page4",
+            "@type": "sc:Range",
+            "label": "Page 4",
+            "canvases": [
+                "http://6dd34afd-c0a7-4180-8c28-be0d01a5e376"
+            ]
+        
+        }
+    ]
+}
