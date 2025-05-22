@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "decaf chai by twinnings&nbsp;<a title=\"chai\" href=\"https://twiningsusa.com/products/chai?srsltid=AfmBOooOoIbrmvNU-apJ0mIId2p_gByuPptkCpYMrhRab7TEbccQBixP\" target=\"_blank\" rel=\"noopener\">twinnings",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>decaf chai by twinnings&nbsp;<a title=\"chai\" href=\"https://twiningsusa.com/products/chai?srsltid=AfmBOooOoIbrmvNU-apJ0mIId2p_gByuPptkCpYMrhRab7TEbccQBixP\" target=\"_blank\" rel=\"noopener\">twinnings</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/117581994141828913443",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T13:38:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747921124800",
+    "dcterms:modified" : "2025-05-22T13:38:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://padmaya.github.io/iiif-workshop-test/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=465,24,1089,244"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M465.15753,23.89041h544.69863v0h544.69863v122.13014v122.13014h-544.69863h-544.69863v-122.13014z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3bc22e47-22db-4ee8-a463-14ef1f4e51fa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://6dd34afd-c0a7-4180-8c28-be0d01a5e376"
+    } ]
+  } ],
+  "@id" : "https://padmaya.github.io/iiif-workshop-test/annotations/489296cb014f71c53a03bde08f234e58.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
