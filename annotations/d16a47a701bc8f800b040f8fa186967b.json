@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "upside down",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>upside down</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/117581994141828913443",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-05-22T13:49:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1747921785053",
+    "dcterms:modified" : "2025-05-22T13:49:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://padmaya.github.io/iiif-workshop-test/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=474,400,1264,405"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M474.09589,400.32877h631.82192v0h631.82192v202.36986v202.36986h-631.82192h-631.82192v-202.36986z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d7627ccb-48ef-4470-a47e-b8dac32270f8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://0dfd06af-d048-4567-ad88-40190362e941"
+    } ]
+  } ],
+  "@id" : "https://padmaya.github.io/iiif-workshop-test/annotations/d16a47a701bc8f800b040f8fa186967b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
