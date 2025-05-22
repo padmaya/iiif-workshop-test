@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://padmaya.github.io/iiif-workshop-test/annotations/489296cb014f71c53a03bde08f234e58.json", "https://padmaya.github.io/iiif-workshop-test/annotations/d564d5ea60e11195cc0e0583e36fd366.json", "https://padmaya.github.io/iiif-workshop-test/annotations/39435ada7bbfdb5a0d77c8a7ba30f1a6.json" ],
+  "otherContent" : [ "https://padmaya.github.io/iiif-workshop-test/annotations/489296cb014f71c53a03bde08f234e58.json", "https://padmaya.github.io/iiif-workshop-test/annotations/d564d5ea60e11195cc0e0583e36fd366.json", "https://padmaya.github.io/iiif-workshop-test/annotations/39435ada7bbfdb5a0d77c8a7ba30f1a6.json", "https://padmaya.github.io/iiif-workshop-test/annotations/d16a47a701bc8f800b040f8fa186967b.json" ],
   "@id" : "https://padmaya.github.io/iiif-workshop-test/annotations/collection.json",
   "label" : "All annotations loaded in padmaya/iiif-workshop-test project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
