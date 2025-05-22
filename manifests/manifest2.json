@@ -5,7 +5,7 @@
   "label" : "more about chai",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "This is a test picture for chai. This is created by the IIIF Manifest Generator. The image is a test image.Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator in Universal viewer. This is a test image.",
+    "@value" : "These are test images. This is created by the IIIF Manifest Generator. The image is a test image.Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator. This is a test image. Testing the IIIF Manifest Generator in Universal viewer. This is a test image.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
